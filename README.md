@@ -5,6 +5,8 @@ A comprehensive data analysis project that explores customer shopping behavior p
 ## 📋 Project Overview
 
 This project analyzes customer shopping behavior to identify trends, patterns, and insights that can drive business decisions. The analysis combines data processing with Python, data querying with SQL, and interactive visualization with Power BI.
+<img width="1346" height="728" alt="Screenshot 2026-03-17 194333" src="https://github.com/user-attachments/assets/2f66eda6-3bce-409a-b666-e848b1be0e63" />
+
 
 ## 🛠️ Technologies Used
 
